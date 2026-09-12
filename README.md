@@ -6,6 +6,10 @@
 
 🔗 [View Portfolio](https://portfolio-oemr8kqsi-thakurpriyanshusingh05-oss-projects.vercel.app/)
 
+## 📸 Portfolio Preview
+
+![Portfolio Homepage](portfolio-home.png)
+
 ## ✨ Features
 
 - 📱 Responsive portfolio website
